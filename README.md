@@ -14,14 +14,14 @@ We had to create the engine variable using create_engine(), reflected an existin
 ### Deliverable 1: Determine Summary Stistic for June
 
 For deliverable 1, we are determining the summary statistics for the tempurature in June. To achieve this task, we must first import sqlalchemy.extract.
-We created a new, empty list for june tempurature as j_temps. Next the query is pulling in the Measurements table, but only requested the tempuratures for 6th month. Then turned j_temps into a list, then to a dataframe. From there we can see use describe() to see the summary statistics.
+We created a new, empty list for june tempurature as j_temps. Next the query is pulling in the Measurements table, but only requested the tempuratures for 6th month and temp only. Then turned j_temps into a list, then to a dataframe. From there we can see use describe() to see the summary statistics.
 
 ![june_sum_stat](https://user-images.githubusercontent.com/99375741/166160090-11d5b3e8-43d9-4bb1-9675-a7183d794f55.png)
 
 
 ### Deliverable 2: Determine Summary Stistic for December
 
-For deliverable 2, we are determining the summary statistics for the tempurature in December. Like deliverable 1, we wrote a query to pull only data from the 12th month. Convered the data to a list, then converted it into a dataframe from which we can determine the summary statistic.
+For deliverable 2, we are determining the summary statistics for the tempurature in December. Like deliverable 1, we wrote a query to pull only data from the 12th month and temp only. Convered the data to a list, then converted it into a dataframe from which we can determine the summary statistic.
 
 ![dec_sum_stat](https://user-images.githubusercontent.com/99375741/166160114-9f580764-5e2c-4caa-a8e9-9e826e556fa1.png)
 

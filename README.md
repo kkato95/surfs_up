@@ -1,6 +1,6 @@
 # The SurfsUp Challenge
 ## Overview of the Analysis
-The purpose of this analysis was to determine the tempurature trends of June and Decemeber in Oahu to determine if the surf and ice cream shop with have sustainable business all year around. We are breaking up the analysis into two seperate deliverables. The first deliverable is to determine the tempurature summary statistic for June and the second is the tempurature summary statistics for December. 
+The purpose of this analysis was to determine the tempurature trends of June and Decemeber in Oahu to find if the surf and ice cream shop with have sustainable business all year around. We are breaking up the analysis into two seperate deliverables. The first deliverable is to determine the tempurature summary statistic for June and the second is the tempurature summary statistics for December. 
 
 ## Results
 

@@ -33,6 +33,14 @@ For deliverable 2, we are determining the summary statistics for the tempurature
 
 ## Summary
 
+In the additional queries, we have found the summary statistics for June's and December's precipitation data. For both quesies, we filtered the Measurement table for only rows with the 6th and 12th months and precipitation data. We generated the summary statisics for June's and December's precipitation.
 
+June Precipitation:
 
+![june_precip](https://user-images.githubusercontent.com/99375741/166161271-0cfa05f3-17b5-4c27-8f74-f5f6177d6f0f.png)
 
+December Precipitation:
+
+![dec_precip](https://user-images.githubusercontent.com/99375741/166161283-dd5f6a97-14fc-489d-81a6-af8ceb925430.png)
+
+The summary statistic for precipitation levels in June and December shows the precipitation is greater in December than in June. There is 59% more precipitation in December, than in June based on the means for each month.
